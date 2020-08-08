@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+# Hi there 👋
 
 - 🔭 I’m currently working on backend Development
 - 🌱 I’m currently learning backend Development using Spring boot
